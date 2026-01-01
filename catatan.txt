@@ -1,0 +1,4 @@
+ini menggunakan algoritma Logistic Regression
+visualisasi data : matplotlib
+preprocessing : StandardScaler, OneHotEncoder, OrdinalEncoder
+Simpan model : joblib
